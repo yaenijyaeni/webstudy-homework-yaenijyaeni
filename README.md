@@ -25,10 +25,12 @@
 4. 위 브랜치에서 본인의 핸들명으로 된 폴더를 하나 만든다.
 5. 폴더 안에 README.md를 만들어 자기 소개를 적는다. 
 
-![커밋 메시지 수정](https://user-images.githubusercontent.com/71186266/228488085-863bac8f-668b-4b52-9d13-4ec51995d93e.png)
-
 **(230329 추가) 파일 추가시 여기서 커밋 메시지를 컨벤션에 맞게 수정한다.**
  
+
+![커밋 메시지 수정](https://user-images.githubusercontent.com/71186266/228488085-863bac8f-668b-4b52-9d13-4ec51995d93e.png)
+
+
 6. 이후 본인의 깃허브에 저장된 리모트 리포지토리 `webstudy-homwork-본인핸들명`에 새로운 브랜치의 내용을 push 한다. <br> 단, 리모트 리포지토리에도 본인 핸들명으로 된 브랜치에 push 해야 한다. 즉, 아래와 같이 remote에도 핸들명으로 된 브랜치가 있어야 한다.
 
 ![2 자기소개](https://user-images.githubusercontent.com/128952503/227763144-47dd86fd-1d27-4244-8566-ff25d87c77f8.png)
